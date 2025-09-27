@@ -2,37 +2,53 @@
   "holerites": [
     {
       "id": 1,
-      "data": "2025-01-01"
+      "data": "2025-01-01",
+      "Lido": "N",
+      "Assinado": "N"
     },
     {
       "id": 2,
       "data": "2025-02-01"
+      "Lido": "N",
+      "Assinado": "N"
     },
     {
       "id": 3,
       "data": "2025-03-01"
+      "Lido": "N",
+      "Assinado": "N"
     },
     {
       "id": 4,
       "data": "2025-04-01"
+      "Lido": "N",
+      "Assinado": "N"
     } 
   ],
     "recibos_pagamento": [
     {
       "id": 1,
-      "data": "2025-01-01"
+      "data": "2025-01-01",
+      "Lido": "N",
+      "Assinado": "N"
     },
     {
       "id": 2,
-      "data": "2025-02-01"
+      "data": "2025-02-01",
+      "Lido": "N",
+      "Assinado": "N"
     },
     {
       "id": 3,
-      "data": "2025-03-01"
+      "data": "2025-03-01",
+      "Lido": "N",
+      "Assinado": "N"
     },
     {
       "id": 4,
       "data": "2025-04-01"
+      "Lido": "N",
+      "Assinado": "N"
     } 
   ],
    "avisos": [
@@ -40,13 +56,15 @@
       "id": 1,
       "data": "2025-09-01",
       "titulo": "Mês do homem",
-      "descricao":"Aproveite o seu mês"
+      "descricao":"Aproveite o seu mês",
+      "Lido": "N"
     },
     {
       "id": 2,
       "data": "2025-09-10",
       "titulo": "AVISO IMPORTANTE",
       "descricao":"No dia 03/10/2025 (sexta-feira) haverá uma confraternização com rodízio de pizzas a partir das 17:00h!"
+      "Lido": "N"
     }
   ]
 }
